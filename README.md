@@ -1,7 +1,7 @@
 # 소개
 
 # Profile
-![프로필이미지](https://github.com/ShimSeoungChul/RESUME/raw/master/images/profile.jpg)
+<img alt="프로필이미지" src="https://github.com/ShimSeoungChul/RESUME/raw/master/images/profile.jpg" width="200">
 - 심승철
 - Email: tlatmdcjf94@gmail.com
 - Blog: https://scshim.tistory.com/
