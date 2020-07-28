@@ -1,5 +1,3 @@
-# 소개
-
 # Profile
 <img alt="프로필이미지" src="https://github.com/ShimSeoungChul/RESUME/raw/master/images/profile.jpg" width="300">
 
