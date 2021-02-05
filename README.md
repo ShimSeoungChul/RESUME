@@ -22,14 +22,14 @@
 스프링부트, JPA, MySQL을 통해 백엔드를 구현했습니다.   
 - 소스코드: https://github.com/ShimSeoungChul/kpmg-ing-backend <br/>
 - 관련정보: https://www.slideshare.net/JihyunSon2/kpmg-ideation-challenge-korean
-![2020kpmg해커톤](https://user-images.githubusercontent.com/40673012/106991528-c401e000-67b9-11eb-8a24-9168be7df6b7.png)
 
 ### 2020 한경 앱 아이디어 챌린지 동상
 - 소개: 맞벌이 부부의 업무분담 효율성을 위한 집안일 분담 앱입니다. 팀 ING(전처리중)으로 참여했습니다. <br/>
 안드로이드 앱 프로토타입을 구현했습니다.
 - 소스코드: https://github.com/ShimSeoungChul/housekeeper
 - 관련정보: https://www.hankyung.com/economy/article/202006095664a
-### 2020 D-Tech 기술 디자인 공모전 우수상
+### 2020 D-Tech 기술 디자인 공모전 Track 1 우수상
+- 관련정보: https://www.d-techcampaign.com/
 
 # Project
 ## Walkadog
