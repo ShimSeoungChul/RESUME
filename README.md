@@ -20,6 +20,9 @@
 ### Platform
 - Android, iOS, Linux(Ubuntu)
 
+### FrameWork
+- Spring
+
 ### Server
 - Tomcat
 
@@ -40,11 +43,11 @@
 ### Platform
 - Android, Linux(Ubuntu)
 
-### Server
-- Nginx, Apache, Kurento(미디어서버)
-
 ### FrameWork
 - Spring Boot, Hadoop, MapReduce, Django, express
+
+### Server
+- Nginx, Apache, Kurento(미디어서버)
 
 ### Database
 - MySQL, Percona, MongoDB
