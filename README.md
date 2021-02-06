@@ -1,13 +1,16 @@
-# Profile
+# Profile.
 <img alt="프로필이미지" src="https://github.com/ShimSeoungChul/RESUME/raw/master/images/profile.jpeg" width="250">
 
 - 심승철
-- Email: tlatmdcjf94@gmail.com
-- Blog: https://scshim.tistory.com/
+📧 Email: tlatmdcjf94@gmail.com
+✍ Blog: https://scshim.tistory.com/
+👨‍💻 Github: https://github.com/ShimSeoungChul
+
 
 <br /><br />
-# Skill 1
-업무에 사용한 기술
+# Skill 1.
+업무에 사용한 기술 입니다.
+<br />
 ### Programming language
 - Java, Swift, Javascript
 
@@ -29,8 +32,9 @@
 ### Database
 - MySQL
 
-# Skill 2
-개인 프로젝트에 사용한 기술
+# Skill 2.
+개인 프로젝트에 사용한 기술 입니다.
+<br />
 ### Programming language
 - Java, PHP, Javascript, Python
 
@@ -53,18 +57,25 @@
 - MySQL, Percona, MongoDB
 
 <br /><br />
-# Work experience
+# Work experience.
 ## 펫미업 <img src="https://github.com/ShimSeoungChul/RESUME/raw/master/images/petmeup.png" alt="펫미업 로고" width="22" height="22"/>
 - 소개: 반려동물 이동서비스
 - 기간: 2019.07 ~ 현재
-- 사용 기술:
+
+### Projects.
+#### 2019.07 ~ 펫미업 고객 Client 앱 유지보수 및 기능 개발
+#### 2019.07 ~ 펫미업 고객 Client 앱 유지보수 및 기능 개발 
+#### 2019.07 ~ 펫미업 고객 Client 앱 유지보수 및 기능 개발 
+#### 2019.07 ~ 펫미업 고객 Client 앱 유지보수 및 기능 개발
+#### 2019.07 ~ 펫미업 고객 Client 앱 유지보수 및 기능 개발
+#### 2019.07 ~ 펫미업 고객 Client 앱 유지보수 및 기능 개발
 
 <br /><br />
-# Education
+# Education.
 - 숭실대학교 컴퓨터학부 4학년 2학기 재학 (2021년 8월 졸업 예정)
 
 <br /><br />
-# Award
+# Award.
 
 ### 2020 삼정KPMG 아이디어톤(해커톤) 준우승
 - 소개: 모바일 단말을 통한 AI 데이터 전처리 플랫폼입니다.<br/>
