@@ -6,6 +6,7 @@
 - Blog: https://scshim.tistory.com/
 
 <span style="color:yellow"> Skill 1</span>
+
 - 업무에 사용한 기술
 ## Programming language
 - Java, Swift, Javascript
