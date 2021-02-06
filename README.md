@@ -108,14 +108,16 @@
 - 2019.08 기존에 로컬에서 파일로 관리되던 서버, iOS, 안드로이드, 홈페이지, 관리자페이지 소스 코드를 깃랩으로 이전했습니다.
 <br />
 
-
 <br /><br />
+
 # Education.
 - 숭실대학교 컴퓨터학부 4학년 2학기 재학 중(2021년 8월 졸업 예정)
 
 <br /><br />
+
 # Award.
 <br />
+
 ### 2020 삼정KPMG 아이디어톤(해커톤) 준우승
 - 소개: 모바일 단말을 통한 AI 데이터 전처리 플랫폼입니다.<br/>
 스프링부트, JPA, MySQL을 통해 백엔드를 구현했습니다.   
@@ -124,22 +126,26 @@
           https://www.slideshare.net/JihyunSon2/kpmg-ideation-challenge-korean
 <br />
 ### 2020 한경 앱 아이디어 챌린지 동상
-- 소개: 맞벌이 부부의 업무분담 효율성을 위한 집안일 분담 앱입니다. 팀 ING(전처리중)으로 참여했습니다. <br/>
+- 소개: 맞벌이 부부의 업무분담 효율성을 위한 집안일 분담 앱입니다. 팀 ING(전처리중)으로 참여했습니다. 
+<br/>
+
 안드로이드 앱 프로토타입을 구현했습니다.
 - 소스코드: https://github.com/ShimSeoungChul/housekeeper
 - 관련정보: https://www.hankyung.com/economy/article/202006095664a
+
 ### 2020 D-Tech 기술 디자인 공모전 Track 1 우수상
 - 관련정보: https://www.d-techcampaign.com/
-
 <br /><br />
-# Project
 
+
+# Project
 <br />
+
 ## Walkadog
 `개인 프로젝트, 2019.4-2019.6`
 - 소개: 반려견을 위한 산책 대리 어플
-
 <br />
+
 ## BattleYut
 `개인 프로젝트, 2018.3-2018.5`
 - 소개: 실시간 윷놀이 대전게임
