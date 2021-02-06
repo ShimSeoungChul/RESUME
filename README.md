@@ -5,14 +5,24 @@
 - Email: tlatmdcjf94@gmail.com
 - Blog: https://scshim.tistory.com/
 
-# Skill 1
+<span style="color:yellow"> Skill 1</span>
 - 업무에 사용한 기술
+## Programming language
+- Java, Swift, Javascript
 
 ## AWS
-##
+- RDS: Aurora MySQL, EC2
+
+## Protocol
+- HTTP, WebSocket
+
+## Platform
+- Android, iOS, Linux(Ubuntu)
 
 # Skill 2
 - 개인 프로젝트에 사용한 기술
+## Programming language
+- Java, PHP, Javascript, Python
 
 
 # Work experience
