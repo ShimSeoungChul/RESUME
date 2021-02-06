@@ -26,7 +26,7 @@
 - MySQL
 
 # Skill 2
-- 개인 프로젝트에 사용한 기술
+개인 프로젝트에 사용한 기술
 ### Programming language
 - Java, PHP, Javascript, Python
 
@@ -48,6 +48,7 @@
 ### Database
 - MySQL, Percona, MongoDB
 
+<br /><br />
 # Work experience
 ## 펫미업 <img src="https://github.com/ShimSeoungChul/RESUME/raw/master/images/petmeup.png" alt="펫미업 로고" width="22" height="22"/>
 - 소개: 반려동물 이동서비스
