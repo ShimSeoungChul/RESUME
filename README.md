@@ -1,17 +1,27 @@
 # Profile
-<img alt="프로필이미지" src="https://github.com/ShimSeoungChul/RESUME/raw/master/images/profile.jpg" width="300">
-
+<img alt="프로필이미지" src="https://github.com/ShimSeoungChul/RESUME/raw/master/images/profile.jpg" width="200">
 
 - 심승철
 - Email: tlatmdcjf94@gmail.com
 - Blog: https://scshim.tistory.com/
+
+# Skill 1
+- 업무에 사용한 기술
+
+## AWS
+##
+
+# Skill 2
+- 개인 프로젝트에 사용한 기술
 
 
 # Work experience
 ## 펫미업 <img src="https://github.com/ShimSeoungChul/RESUME/raw/master/images/petmeup.png" alt="펫미업 로고" width="22" height="22"/>
 - 소개: 반려동물 이동서비스
 - 기간: 2019.07 ~ 현재
+- 사용 기술:
 
+- 기간: 2019.07 ~ 현
 # Education
 - 숭실대학교 컴퓨터학부 4학년 2학기 재학 (2021년 8월 졸업 예정)
 
