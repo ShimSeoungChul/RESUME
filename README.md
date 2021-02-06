@@ -1,5 +1,5 @@
 # Profile
-<img alt="프로필이미지" src="https://github.com/ShimSeoungChul/RESUME/raw/master/images/profile.jpg" width="200">
+<img alt="프로필이미지" src="https://github.com/ShimSeoungChul/RESUME/raw/master/images/profile.jpeg" width="200">
 
 - 심승철
 - Email: tlatmdcjf94@gmail.com
