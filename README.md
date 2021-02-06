@@ -7,23 +7,46 @@
 
 # Skill 1
 업무에 사용한 기술
-## Programming language
+### Programming language
 - Java, Swift, Javascript
 
-## AWS
-- RDS: Aurora MySQL, EC2
+### AWS
+- Route53, EC2, Load Balancer, RDS
 
-## Protocol
+### Protocol
 - HTTP, WebSocket
 
-## Platform
+### Platform
 - Android, iOS, Linux(Ubuntu)
+
+### Server
+- Tomcat
+
+### Database
+- MySQL
 
 # Skill 2
 - 개인 프로젝트에 사용한 기술
-## Programming language
+### Programming language
 - Java, PHP, Javascript, Python
 
+### AWS
+- Route53, EC2, RDS
+
+### Protocol
+- HTTP, WebSocket, TCP/IP
+
+### Platform
+- Android, Linux(Ubuntu)
+
+### Server
+- Nginx, Apache, Kurento(미디어서버)
+
+### FrameWork
+- Spring Boot, Hadoop, MapReduce, Django, express
+
+### Database
+- MySQL, Percona, MongoDB
 
 # Work experience
 ## 펫미업 <img src="https://github.com/ShimSeoungChul/RESUME/raw/master/images/petmeup.png" alt="펫미업 로고" width="22" height="22"/>
