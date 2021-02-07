@@ -65,17 +65,17 @@
 <br />
 
 ### Projects.
-- 2019.07 ~ 2019.08 <br />
-* 홈페이지 팝업 반응형으로 수정 및 오늘하루 그만보기 기능 추가  (HTML, CSS, javascipt, Jquery, 쿠키) <br />
-* 소스 코드 원격 저장소로 이전 (GitLap) <br />
-* 고객 마케팅 동의 유무 수집 (Android, iOS) 
+* 2019.07 ~ 2019.08 <br />
+ - 홈페이지 팝업 반응형으로 수정 및 오늘하루 그만보기 기능 추가  (HTML, CSS, javascipt, Jquery, 쿠키) <br />
+ - 소스 코드 원격 저장소로 이전 (GitLap) <br />
+ - 고객 마케팅 동의 유무 수집 (Android, iOS) 
 
-- 2019.09 ~ 2019.10<br />
-* iOS 푸시 알림 인증서 교체 (APNS)<br />
-* 중복 결제 방지 기능 개발 (Spring, Danal API, RDS)<br />
-* 예약 요청의 반려동물 데이터 중복 제거 (Java Collection API Set)<br />
-* 홈페이지 배너 추가 (HTML, CSS, javascipt, Jquery)<br />
-* NH 챌린지플러스 2기 선정, 사업계획서 기술 부문 작성
+* 2019.09 ~ 2019.10<br />
+ - iOS 푸시 알림 인증서 교체 (APNS)<br />
+ - 중복 결제 방지 기능 개발 (Spring, Danal API, RDS)<br />
+ - 예약 요청의 반려동물 데이터 중복 제거 (Java Collection API Set)<br />
+ - 홈페이지 배너 추가 (HTML, CSS, javascipt, Jquery)<br />
+ - NH 챌린지플러스 2기 선정, 사업계획서 기술 부문 작성
  
 <br /> 
  
