@@ -67,22 +67,22 @@
     - 홈페이지 팝업 반응형 개발 및 쿠키 개발 <br />
     (HTML, CSS, javascipt, Jquery)
     - 소스 코드 원격 저장소로 이전 (GitLab)
-    - 고객 마케팅 동의 유무 수집 (Android, iOS) 
+    - 고객앱 마케팅 동의 유무 수집 (Android, iOS) 
 
 * 2019.09 ~ 2019.10
     - iOS 푸시 알림 인증서 교체 (Spring, APNS)
     - 중복 결제 방지 기능 개발 (Spring, Danal API, RDS)
     - 예약 요청의 반려동물 데이터 중복 제거(Java Collection API Set)
     - 홈페이지 배너 추가 (HTML, CSS, javascipt, Jquery)
-    - NH 챌린지플러스 2기 선정, 사업계획서 기술 부문 작성
+    - NH 챌린지플러스 사업계획서 기술 부문 작성(2기 선정)
  
 <br /> 
  
 * 2019.11 ~ 2019.12
-    - 모바일 팝업 개발 (Android, iOS, WebView)
+    - 고객앱 팝업 개발 (Android, iOS, WebView)
     - 시간별 모바일 팝업 관리 시스템 개발 <br /> 
       (HTML, CSS, Javascript, Jquery)
-    - 드라이버의 예약 수락 중복 오류 수정 (Android, iOS)
+    - 드라이버앱 예약 중복 수락 오류 수정 (Android, iOS)
     - 결제 기능 예외 처리 추가 (Spring, Danal API)
 
 <br /> 
@@ -97,21 +97,21 @@
 <br /> 
  
 * 2020.03 ~ 2020.06
-    - 동물 품종 검색 기능 추가 (Android SearchView, iOS UISearchBar) 
+    - 고객앱 동물 품종 검색 기능 추가 (Android SearchView, iOS UISearchBar) 
     - 메일 서비스 변경, 후이즈메일 -> 라인웍스메일 (Route53, Line works)
     - AWS EC2 파일 시스템 볼륨을 확장
-    - 창업도약패키지 지원사업기업 선정, 사업계획서 기술 부문 작성
-    - 2020 SK 5GX Accelerator 선정, 사업계획서 기술 부문 작성
+    - 창업도약패키지 사업계획서 기술 부문 작성(지원사업기업 선정)
+    - 2020 SK 5GX Accelerator 사업계획서 기술 부문 작성(입주 기업 선정)
 
 <br /> 
  
 * 2020.07 ~ 2020.10
-    - 카카오배너 광고 전환 추적 구현 (Adnroid, iOS, KakaoAD SDK)
+    - 고객앱 카카오배너 광고 전환 추적 구현 (Adnroid, iOS, KakaoAD SDK)
     - 홈페이지에 보험 가입 페이지 추가 + 모바일 팝업과 연동 <br />
      (Android, iOS, HTML, CSS, Javascript, Jquery, Google Analytics) <br />
       보맵, 삼성화재 등 고객사의 개발&비개발 직군과 협업 경험
     - 관리자페이지 엑셀 다운로드 가능 데이터 수정 (Spring, Apache POI)
-    - SNS 고객 탈퇴 기능 개발 (Android, iOS, 알리고 API)
+    - 고객앱 SNS 고객 탈퇴 기능 개발 (Android, iOS, 알리고 API)
 
 <br /> 
  
@@ -125,7 +125,7 @@
     (iOS, Tmap SDK) <br />
     https://scshim.tistory.com/184
     - 서버에 단위 유닛 테스트 시작(Spring, Junit) 
-    - 고객 카드 유효성 검사 기능 추가(Android, iOS, Danal API)
+    - 드라이버앱 고객 카드 유효성 검사 기능 추가(Android, iOS, Danal API)
 
 <br /><br />
 
