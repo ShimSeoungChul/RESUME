@@ -134,29 +134,29 @@
 
 <br /><br />
 
-# Award.
+# Awards.
 <br />
 
-### 2020 삼정KPMG 아이디어톤(해커톤) 준우승
+### 2020 삼정KPMG 아이디어톤(해커톤) 팀장, 준우승
 - 소개: 모바일 단말을 통한 AI 데이터 전처리 플랫폼입니다.<br/>
-스프링부트, JPA, MySQL을 통해 백엔드를 구현했습니다.   
-- 소스코드: https://github.com/ShimSeoungChul/kpmg-ing-backend <br/>
-- 관련정보: https://user-images.githubusercontent.com/40673012/106991528-c401e000-67b9-11eb-8a24-9168be7df6b7.png
+스프링부트, JPA, MySQL을 통해 백엔드를 구현했습니다.    
+- 소스코드&세부사항: https://github.com/ShimSeoungChul/kpmg-ing-backend <br/>
+- 관련정보: https://han.gl/KcFD5 <br />
           https://www.slideshare.net/JihyunSon2/kpmg-ideation-challenge-korean
 <br />
 
 ### 2020 한경 앱 아이디어 챌린지 동상
-- 소개: 맞벌이 부부의 업무분담 효율성을 위한 집안일 분담 앱입니다. 팀 ING(전처리중)으로 참여했습니다. 
-<br/>
-
-안드로이드 앱 프로토타입을 구현했습니다.
-- 소스코드: https://github.com/ShimSeoungChul/housekeeper
+- 소개: 맞벌이 부부의 업무분담 효율성을 위한 집안일 분담 앱입니다. '팀 ING(전처리중)'으로 참여했습니다. <br/>
+안드로이드 프로토타입 앱을 구현했습니다.
+- 소스코드&세부사항: https://github.com/ShimSeoungChul/housekeeper
 - 관련정보: https://www.hankyung.com/economy/article/202006095664a
 
 ### 2020 D-Tech 기술 디자인 공모전 Track 1 우수상
-- 소개: 
-- 관련정보: https://www.d-techcampaign.com/
-          https://user-images.githubusercontent.com/40673012/106992457-d250fb80-67bb-11eb-925a-d5c8da2815e0.png
+- 소개: 중증장애인을 원격고용하는 머신러닝 학습데이터 전처리 플랫폼 사업입니다. '팀 비마'로 참여했습니다. RPA 기술 기획을 담당했습니다.
+- 관련정보: https://www.d-techcampaign.com/ <br />
+          https://han.gl/r5ZFG
+
+          
  
 <br /><br />
 
