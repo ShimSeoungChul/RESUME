@@ -109,23 +109,23 @@
     - 카카오배너 광고 전환 추적 구현 (Adnroid, iOS, KakaoAD SDK)
     - 홈페이지에 보험 가입 페이지 추가 + 모바일 팝업과 연동 <br />
      (Android, iOS, HTML, CSS, Javascript, Jquery, Google Analytics) <br />
-      보맵, 삼성화재 등 고객사의 개발&비개발 직군과 협업을 경험했습니다.
+      보맵, 삼성화재 등 고객사의 개발&비개발 직군과 협업 경험
     - 관리자페이지 엑셀 다운로드 가능 데이터 수정 (Spring, Apache POI)
-    - SNS 고객 탈퇴 기능 개발, 문자 인증 번호 사용(Android, iOS, 알리고 API)
+    - SNS 고객 탈퇴 기능 개발 (Android, iOS, 알리고 API)
 
 <br /> 
  
 * 2020.11 ~ 2021.01
-    - 관리자페이지 실시간 예약 확인 기능이 중단되는 오류 수정 <br />
+    - 관리자페이지 실시간 예약 확인 기능 오류 수정 <br />
     (Websocket, Javascript, AWS EC2 Load Balancer) <br />
     https://scshim.tistory.com/170
-    - 크롬브라우저 관리자페이지의 주소 검색 오류 수정 (html, Kakao API)<br />
+    - 크롬브라우저 주소 검색 오류 수정 (html, Kakao API)<br />
     https://scshim.tistory.com/167 <br />
     - 고객앱 Tmap 지도 로딩 오류 수정, Tmap SDK 신규 버전으로 교체 <br />
     (iOS, Tmap SDK) <br />
     https://scshim.tistory.com/184
     - 서버에 단위 유닛 테스트 시작(Spring, Junit) 
-    - 드라이버 운행 전 고객 카드 유효성 검사 기능 추가(Android, iOS, Danal API)
+    - 고객 카드 유효성 검사 기능 추가(Android, iOS, Danal API)
 
 <br /><br />
 
