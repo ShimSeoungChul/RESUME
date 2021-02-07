@@ -90,7 +90,7 @@
 - 2020.01 ~ 2020.02 <br />
 * 푸시 알림 내역 입력 데이터베이스 쿼리 최적화 <br />
 결과: 푸시 알림 요청 한 번에 몇 분씩 걸리던 로직을 1초 미만으로 수정했습니다.
-<img alt="푸시알림수정결과" src="https://user-images.githubusercontent.com/40673012/107137718-81bfd680-6952-11eb-9f4d-bfb7ca6c3868.png" width="400">
+<img alt="푸시알림수정결과" src="https://user-images.githubusercontent.com/40673012/107137718-81bfd680-6952-11eb-9f4d-bfb7ca6c3868.png" width="500">
 <br />
 
 * LG 폰에서 멀티 윈도우 사용시 미터기 화면이 리셋되는 에러 수정 (Android) <br />
@@ -116,35 +116,17 @@
 <br /> 
  
 - 2020.11 ~ 2021.01 <br />
-* 관리자페이지 실시간 예약 확인 기능이 중단되는 오류 수정 (Websocket, Javascript, AWS EC2 Load Balancer) 
-* 크롬브라우저 관리자페이지에서 카카오 API 주소 검색 오류 수정, Referer-Policy 변경 (html, Kakao API) 
-* 고객앱 Tmap 지도 로딩 오류 수정, Tmap SDK 신규 버전으로 교체 (iOS, Tmap SDK)
-* 서버에 단위 유닛 테스트 시작(Spring, Junit) 
+* 관리자페이지 실시간 예약 확인 기능이 중단되는 오류 수정 https://scshim.tistory.com/170 (Websocket, Javascript, AWS EC2 Load Balancer) <br />
+* 크롬브라우저 관리자페이지의 주소 검색 오류 수정, https://scshim.tistory.com/167 (html, Kakao API) <br />
+* 고객앱 Tmap 지도 로딩 오류 수정, Tmap SDK 신규 버전으로 교체 https://scshim.tistory.com/184 (iOS, Tmap SDK) <br />
+* 서버에 단위 유닛 테스트 시작(Spring, Junit) <br />
+* 드라이버 운행 전 고객 카드 유효성 검사 (Android, iOS, Danal api) <br />
 
-
-
-  
-#### 고객용 iOS, Android 앱 유지보수, 기능 개발
-- 사용기술: iOS - Swift, Android - Java
-- 로그인 기능 수정: 기존 고객에게 마케팅 동의 선택 팝업 추가 
-- 카카오 Ad SDK 적용
-
-<br />
-
-#### 드라이버용 iOS, Android 앱 유지보수, 기능 개발
-- 사용기술: iOS - Swift, Android - Java
-
-
-#### 서버 유지보수 및 기능 개발
-- 사용기술 : 자바, 스프링, 톰캣, Route53, EC2, RDS: Aurora MySQL
-- 결제 시스템 수정(다날 API) <br /> 
-
-2019.10 다날 API에서 받아오는 결제 실패 메세지에 따라 알맞은 메세지를(중복된 카드, 결제 금액 부족 등) 클라이언트에 반환하는 기능을 추가했습니다.
+ 
 
 
 
 
-<br />
 
 
 
