@@ -85,12 +85,12 @@
 
 <br /> 
  
-* 2020.01 ~ 2020.02 
+* 2020.01 ~ 2020.02
+    - LG 폰에서 멀티 윈도우 사용시 미터기 화면이 리셋되는 에러 수정 (Android)
+    - iOS 13 SDK 대응(푸시 알림, 다크 모드, 모달 프레젠트 방식(페이지시트->fullScreen), 애플 로그인 구현)
     - 푸시 알림 내역 입력 데이터베이스 쿼리 최적화
 결과: 푸시 알림 요청 한 번에 몇 분씩 걸리던 로직을 1초 미만으로 수정했습니다.
 <img alt="푸시알림수정결과" src="https://user-images.githubusercontent.com/40673012/107137718-81bfd680-6952-11eb-9f4d-bfb7ca6c3868.png" width="500">
-    - LG 폰에서 멀티 윈도우 사용시 미터기 화면이 리셋되는 에러 수정 (Android)
-    - iOS 13 SDK 대응(푸시 알림, 다크 모드, 모달 프레젠트 방식(페이지시트->fullScreen), 애플 로그인 구현)
 
 <br /> 
  
@@ -146,6 +146,7 @@
 - 관련정보: https://www.hankyung.com/economy/article/202006095664a
 
 ### 2020 D-Tech 기술 디자인 공모전 Track 1 우수상
+- 소개: 
 - 관련정보: https://www.d-techcampaign.com/
           https://user-images.githubusercontent.com/40673012/106992457-d250fb80-67bb-11eb-925a-d5c8da2815e0.png
  
