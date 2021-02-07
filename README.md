@@ -64,7 +64,7 @@
 
 ### Projects.
 * 2019.07 ~ 2019.08
-    - 홈페이지 팝업 반응형으로 수정 및 '오늘하루 그만보기' 기능 개발
+    - 홈페이지 팝업 반응형으로 수정 및 '오늘하루 그만보기' 기능 개발 <br />
     (HTML, CSS, javascipt, Jquery, 쿠키)
     - 소스 코드 원격 저장소로 이전 (GitLap)
     - 고객 마케팅 동의 유무 수집 (Android, iOS) 
@@ -80,7 +80,8 @@
  
 * 2019.11 ~ 2019.12
     - 팝업 및 링크 이동 기능 개발 (Android, iOS, WebView)
-    - 관리자페이지에 모바일 팝업 업데이트 및 시간별 관리 기능 개발 (HTML, CSS, Javascript, Jquery)
+    - 관리자페이지에 모바일 팝업 업데이트 및 시간별 관리 기능 개발 <br /> 
+      (HTML, CSS, Javascript, Jquery)
     - 드라이버의 예약 수락 중복 오류 수정 (Android, iOS)
     - 결제 실패 원인 반환 기능 개발 (Spring, Danal API)
 
@@ -88,7 +89,7 @@
  
 * 2020.01 ~ 2020.02
     - LG 폰에서 멀티 윈도우 사용시 미터기 화면이 리셋되는 에러 수정 (Android)
-    - iOS 13 SDK 대응
+    - iOS 13 SDK 대응 <br />
      (푸시 알림, 다크 모드, 모달 프레젠트 방식(페이지시트->fullScreen), 애플 로그인 구현)
     - 푸시 알림 내역 입력 데이터베이스 쿼리 최적화 <br />
     결과: 푸시 알림 요청 한 번에 몇 분씩 걸리던 로직을 1초 미만으로 수정했습니다.
@@ -107,19 +108,22 @@
  
 * 2020.07 ~ 2020.10
     - 카카오배너 광고 전환 추적 구현 (Adnroid, iOS, KakaoAD SDK)
-    - 보험 가입 페이지를 펫미업 홈페이지에 추가 및 고객앱 팝업과 연동 (Android, iOS, HTML, CSS, Javascript, Jquery, Google Analytics) <br />
-보맵, 삼성화재 애니펫, 펫허그 고객사의 개발&비개발 직군과 협업을 경험했습니다.
+    - 보험 가입 페이지를 펫미업 홈페이지에 추가 및 고객앱 팝업과 연동 <br />
+     (Android, iOS, HTML, CSS, Javascript, Jquery, Google Analytics) <br />
+      보맵, 삼성화재 애니펫, 펫허그 고객사의 개발&비개발 직군과 협업을 경험했습니다.
     - 관리자페이지 엑셀 다운로드 가능 데이터 수정 (Spring, Apache POI)
     - SNS 고객 탈퇴 기능 개발, 문자 인증 번호 사용(Android, iOS, 알리고 API)
 
 <br /> 
  
 * 2020.11 ~ 2021.01
-    - 관리자페이지 실시간 예약 확인 기능이 중단되는 오류 수정 (Websocket, Javascript, AWS EC2 Load Balancer)
+    - 관리자페이지 실시간 예약 확인 기능이 중단되는 오류 수정 <br />
+    (Websocket, Javascript, AWS EC2 Load Balancer) <br />
     https://scshim.tistory.com/170
-    - 크롬브라우저 관리자페이지의 주소 검색 오류 수정 (html, Kakao API)
-    https://scshim.tistory.com/167
-    - 고객앱 Tmap 지도 로딩 오류 수정, Tmap SDK 신규 버전으로 교체 (iOS, Tmap SDK)
+    - 크롬브라우저 관리자페이지의 주소 검색 오류 수정 (html, Kakao API)<br />
+    https://scshim.tistory.com/167 <br />
+    - 고객앱 Tmap 지도 로딩 오류 수정, Tmap SDK 신규 버전으로 교체 <br />
+    (iOS, Tmap SDK) <br />
     https://scshim.tistory.com/184
     - 서버에 단위 유닛 테스트 시작(Spring, Junit) 
     - 드라이버 운행 전 고객 카드 유효성 검사 기능 추가(Android, iOS, Danal API)
