@@ -154,8 +154,8 @@
 ### 2020 D-Tech 기술 디자인 공모전 Track 1 우수상
 - 소개: 중증장애인을 원격고용하는 머신러닝 학습데이터 전처리 플랫폼 사업입니다. '팀 비마'로 참여했습니다. <br />
        기술 조사 담당했습니다.
-- 관련정보: https://www.d-techcampaign.com/ <br />
-          https://han.gl/r5ZFG
+- 관련정보: https://han.gl/r5ZFG<br />
+          https://www.d-techcampaign.com/
 
           
  
