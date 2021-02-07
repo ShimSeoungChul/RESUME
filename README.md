@@ -15,7 +15,7 @@
 - Java, Swift, Javascript
 
 ### AWS
-- Route53, EC2, Load Balancer, RDS
+- Route53, EC2, Load Balancer, RDS: Aurora MySQL
 
 ### Protocol
 - HTTP, WebSocket
@@ -28,9 +28,6 @@
 
 ### Server
 - Tomcat
-
-### Database
-- MySQL
 
 # Skill 2.
 개인 프로젝트에 사용한 기술 입니다.
@@ -119,9 +116,11 @@
 <br /> 
  
 - 2020.11 ~ 2021.01 <br />
-* 관리자페이지 실시간 예약 확인 기능 수정 (Websocket, Javascript, AWS EC2 Load Balancer) 
-* Tmap 지도 로딩 오류 수정, Tmap SDK 신규 버전으로 교체 (iOS, Tmap SDK)
+* 관리자페이지 실시간 예약 확인 기능이 중단되는 오류 수정 (Websocket, Javascript, AWS EC2 Load Balancer) 
+* 크롬브라우저 관리자페이지에서 카카오 API 주소 검색 오류 수정, Referer-Policy 변경 (html, Kakao API) 
+* 고객앱 Tmap 지도 로딩 오류 수정, Tmap SDK 신규 버전으로 교체 (iOS, Tmap SDK)
 * 서버에 단위 유닛 테스트 시작(Spring, Junit) 
+
 
 
   
