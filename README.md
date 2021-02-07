@@ -83,7 +83,7 @@
     - 시간별 모바일 팝업 관리 시스템 개발 <br /> 
       (HTML, CSS, Javascript, Jquery)
     - 드라이버의 예약 수락 중복 오류 수정 (Android, iOS)
-    - 결제 실패 원인 반환 기능 개발 (Spring, Danal API)
+    - 결제 기능 예외 처리 추가 (Spring, Danal API)
 
 <br /> 
  
