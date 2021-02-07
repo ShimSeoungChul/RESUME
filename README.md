@@ -77,8 +77,8 @@
 * iOS 푸시 알림 인증서 교체 (APNS)<br />
 * 중복 결제 방지 기능 개발 (Spring, Danal API, RDS)<br />
 * 예약 요청의 반려동물 데이터 중복 제거 (Java Collection API Set)<br />
-* 드라이버 미터기 할증 오류 수정(Android, iOS)
 * 홈페이지 배너 추가 (HTML, CSS, javascipt, Jquery)<br />
+* NH 챌린지플러스 2기 선정, 사업계획서 기술 부문 작성
  
 <br /> 
  
@@ -96,34 +96,37 @@
 <img alt="푸시알림수정결과" src="https://user-images.githubusercontent.com/40673012/107137718-81bfd680-6952-11eb-9f4d-bfb7ca6c3868.png" width="400">
 <br />
 
-* LG 폰에서 멀티 윈도우 사용시 미터기 화면이 리셋되는 에러 수정 (Android)
+* LG 폰에서 멀티 윈도우 사용시 미터기 화면이 리셋되는 에러 수정 (Android) <br />
+* iOS 13 SDK 대응(푸시 알림, 다크 모드, 모달 프레젠트 방식(페이지시트->fullScreen), 애플 로그인 구현) <br />
 
 <br /> 
  
-- 2020.03 ~ 2020.04 <br />
-* 동물 품종 검색 기능 추가 (Android , iOS UISearchBar)
-* 
-* 
-<br /> 
- 
-- 2020.05 ~ 2020.06 <br />
+- 2020.03 ~ 2020.06 <br />
+* 동물 품종 검색 기능 추가 (Android SearchView, iOS UISearchBar) <br />
+* 메일 서비스 변경, 후이즈메일 -> 라인웍스메일 (Route53, Line works) <br />
+* AWS EC2 파일 시스템 볼륨을 확장 <br />
+* 창업도약패키지 지원사업기업 선정, 사업계획서 기술 부문 작성 <br />
+* 2020 SK 5GX Accelerator 선정, 사업계획서 기술 부문 작성 <br />
 
 <br /> 
  
-- 2020.07 ~ 2020.08 <br />
+- 2020.07 ~ 2020.10 <br />
+* 카카오배너 광고 전환 추적 구현 (Adnroid, iOS, KakaoAD SDK)
+* 보험 가입 페이지를 펫미업 홈페이지에 추가 및 고객앱 팝업과 연동 (Android, iOS, HTML, CSS, Javascript, Jquery, Google Analytics) <br />
+보맵, 삼성화재 애니펫, 펫허그 고객사의 개발&비개발 직군과 협업을 경험했습니다.
+* 관리자페이지 엑셀 다운로드 가능 데이터 수정 (Spring, Apache POI)
 
 <br /> 
  
-- 2020.09 ~ 2020.10 <br />
+- 2020.11 ~ 2021.01 <br />
+* 관리자페이지 실시간 예약 확인 기능 수정 (Websocket, Javascript, AWS EC2 Load Balancer) 
+* Tmap 지도 로딩 오류 수정, Tmap SDK 신규 버전으로 교체 (iOS, Tmap SDK)
+* 서버에 단위 유닛 테스트 시작(Spring, Junit) 
 
-<br /> 
- 
-- 2020.09 ~ 2020.10 <br />
 
   
 #### 고객용 iOS, Android 앱 유지보수, 기능 개발
 - 사용기술: iOS - Swift, Android - Java
-
 - 로그인 기능 수정: 기존 고객에게 마케팅 동의 선택 팝업 추가 
 - 카카오 Ad SDK 적용
 
@@ -137,15 +140,13 @@
 - 사용기술 : 자바, 스프링, 톰캣, Route53, EC2, RDS: Aurora MySQL
 - 결제 시스템 수정(다날 API) <br /> 
 
-2019.10 다날 API에서 받아오는 결제 실패 메세지에 따라 알맞은 메세지를(중복된 카드, 결제 금액 부족 등)  클라이언트에 반환하는 기능을 추가했습니다.
+2019.10 다날 API에서 받아오는 결제 실패 메세지에 따라 알맞은 메세지를(중복된 카드, 결제 금액 부족 등) 클라이언트에 반환하는 기능을 추가했습니다.
 
 
-- 2020.12 EC2 파일 시스템 용량 부족으로 볼륨을 확장했습니다.
+
 
 <br />
 
-#### 스프링 서버에 테스트코드 사용
-- Junit을 활용한 단위 유닛 테스트 코드를 작성하기 시작했습니다.
 
 
 
