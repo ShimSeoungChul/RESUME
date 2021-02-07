@@ -64,70 +64,60 @@
 
 ### Projects.
 * 2019.07 ~ 2019.08
-    - 홈페이지 팝업 반응형으로 수정 및 오늘하루 그만보기 기능 추가  (HTML, CSS, javascipt, Jquery, 쿠키) <br />
-    - 소스 코드 원격 저장소로 이전 (GitLap) <br />
+    - 홈페이지 팝업 반응형으로 수정 및 '오늘하루 그만보기' 기능 개발  (HTML, CSS, javascipt, Jquery, 쿠키)
+    - 소스 코드 원격 저장소로 이전 (GitLap
     - 고객 마케팅 동의 유무 수집 (Android, iOS) 
 
-* 2019.09 ~ 2019.10<br />
-    - iOS 푸시 알림 인증서 교체 (APNS)<br />
-    - 중복 결제 방지 기능 개발 (Spring, Danal API, RDS)<br />
-    - 예약 요청의 반려동물 데이터 중복 제거 (Java Collection API Set)<br />
-    - 홈페이지 배너 추가 (HTML, CSS, javascipt, Jquery)<br />
+* 2019.09 ~ 2019.10
+    - iOS 푸시 알림 인증서 교체 (Spring, APNS)
+    - 중복 결제 방지 기능 개발 (Spring, Danal API, RDS)
+    - 예약 요청의 반려동물 데이터 중복 제거 (Java Collection API Set)
+    - 홈페이지 배너 추가 (HTML, CSS, javascipt, Jquery)
     - NH 챌린지플러스 2기 선정, 사업계획서 기술 부문 작성
  
 <br /> 
  
-- 2019.11 ~ 2019.12 <br />
-* 팝업 및 링크 이동 기능 개발 (Android, iOS, WebView) <br />
-* 관리자페이지에 모바일 팝업 업데이트 및 시간별 관리 기능 개발 (HTML, CSS, Javascript, Jquery) <br />
-* 드라이버의 예약 수락 중복 오류 수정 (Android, iOS) <br />
-* 결제 실패 원인 반환 기능 추가 (Spring, Danal, API)<br />
+* 2019.11 ~ 2019.12
+    - 팝업 및 링크 이동 기능 개발 (Android, iOS, WebView)
+    - 관리자페이지에 모바일 팝업 업데이트 및 시간별 관리 기능 개발 (HTML, CSS, Javascript, Jquery)
+    - 드라이버의 예약 수락 중복 오류 수정 (Android, iOS)
+    - 결제 실패 원인 반환 기능 개발 (Spring, Danal API)
 
 <br /> 
  
-- 2020.01 ~ 2020.02 <br />
-* 푸시 알림 내역 입력 데이터베이스 쿼리 최적화 <br />
+* 2020.01 ~ 2020.02 
+    - 푸시 알림 내역 입력 데이터베이스 쿼리 최적화
 결과: 푸시 알림 요청 한 번에 몇 분씩 걸리던 로직을 1초 미만으로 수정했습니다.
 <img alt="푸시알림수정결과" src="https://user-images.githubusercontent.com/40673012/107137718-81bfd680-6952-11eb-9f4d-bfb7ca6c3868.png" width="500">
-<br />
-
-* LG 폰에서 멀티 윈도우 사용시 미터기 화면이 리셋되는 에러 수정 (Android) <br />
-* iOS 13 SDK 대응(푸시 알림, 다크 모드, 모달 프레젠트 방식(페이지시트->fullScreen), 애플 로그인 구현) <br />
+    - LG 폰에서 멀티 윈도우 사용시 미터기 화면이 리셋되는 에러 수정 (Android)
+    - iOS 13 SDK 대응(푸시 알림, 다크 모드, 모달 프레젠트 방식(페이지시트->fullScreen), 애플 로그인 구현)
 
 <br /> 
  
-- 2020.03 ~ 2020.06 <br />
-* 동물 품종 검색 기능 추가 (Android SearchView, iOS UISearchBar) <br />
-* 메일 서비스 변경, 후이즈메일 -> 라인웍스메일 (Route53, Line works) <br />
-* AWS EC2 파일 시스템 볼륨을 확장 <br />
-* 창업도약패키지 지원사업기업 선정, 사업계획서 기술 부문 작성 <br />
-* 2020 SK 5GX Accelerator 선정, 사업계획서 기술 부문 작성 <br />
+* 2020.03 ~ 2020.06
+    - 동물 품종 검색 기능 추가 (Android SearchView, iOS UISearchBar) 
+    - 메일 서비스 변경, 후이즈메일 -> 라인웍스메일 (Route53, Line works)
+    - AWS EC2 파일 시스템 볼륨을 확장
+    - 창업도약패키지 지원사업기업 선정, 사업계획서 기술 부문 작성
+    - 2020 SK 5GX Accelerator 선정, 사업계획서 기술 부문 작성
 
 <br /> 
  
-- 2020.07 ~ 2020.10 <br />
-* 카카오배너 광고 전환 추적 구현 (Adnroid, iOS, KakaoAD SDK)
-* 보험 가입 페이지를 펫미업 홈페이지에 추가 및 고객앱 팝업과 연동 (Android, iOS, HTML, CSS, Javascript, Jquery, Google Analytics) <br />
+* 2020.07 ~ 2020.10
+    - 카카오배너 광고 전환 추적 구현 (Adnroid, iOS, KakaoAD SDK)
+    - 보험 가입 페이지를 펫미업 홈페이지에 추가 및 고객앱 팝업과 연동 (Android, iOS, HTML, CSS, Javascript, Jquery, Google Analytics) <br />
 보맵, 삼성화재 애니펫, 펫허그 고객사의 개발&비개발 직군과 협업을 경험했습니다.
-* 관리자페이지 엑셀 다운로드 가능 데이터 수정 (Spring, Apache POI)
+    - 관리자페이지 엑셀 다운로드 가능 데이터 수정 (Spring, Apache POI)
+    - SNS 고객 탈퇴 기능 개발, 문자 인증 번호 사용(Android, iOS, 알리고 API)
 
 <br /> 
  
-- 2020.11 ~ 2021.01 <br />
-* 관리자페이지 실시간 예약 확인 기능이 중단되는 오류 수정 https://scshim.tistory.com/170 (Websocket, Javascript, AWS EC2 Load Balancer) <br />
-* 크롬브라우저 관리자페이지의 주소 검색 오류 수정, https://scshim.tistory.com/167 (html, Kakao API) <br />
-* 고객앱 Tmap 지도 로딩 오류 수정, Tmap SDK 신규 버전으로 교체 https://scshim.tistory.com/184 (iOS, Tmap SDK) <br />
-* 서버에 단위 유닛 테스트 시작(Spring, Junit) <br />
-* 드라이버 운행 전 고객 카드 유효성 검사 (Android, iOS, Danal api) <br />
-
- 
-
-
-
-
-
-
-
+* 2020.11 ~ 2021.01
+    - 관리자페이지 실시간 예약 확인 기능이 중단되는 오류 수정 https://scshim.tistory.com/170 (Websocket, Javascript, AWS EC2 Load Balancer)
+    - 크롬브라우저 관리자페이지의 주소 검색 오류 수정, https://scshim.tistory.com/167 (html, Kakao API)
+    - 고객앱 Tmap 지도 로딩 오류 수정, Tmap SDK 신규 버전으로 교체 https://scshim.tistory.com/184 (iOS, Tmap SDK)
+    - 서버에 단위 유닛 테스트 시작(Spring, Junit) 
+    - 드라이버 운행 전 고객 카드 유효성 검사 기능 추가(Android, iOS, Danal API)
 
 <br /><br />
 
@@ -157,6 +147,8 @@
 
 ### 2020 D-Tech 기술 디자인 공모전 Track 1 우수상
 - 관련정보: https://www.d-techcampaign.com/
+          https://user-images.githubusercontent.com/40673012/106992457-d250fb80-67bb-11eb-925a-d5c8da2815e0.png
+ 
 <br /><br />
 
 
