@@ -59,14 +59,14 @@
 
 # Work experience.
 ## 펫미업 <img src="https://github.com/ShimSeoungChul/RESUME/raw/master/images/petmeup.png" alt="펫미업 로고" width="22" height="22"/>
-- 소개: 반려동물 이동서비스 - 반려동물과 함께 이동을 원하는 고객과 차량을 제공하는 드라이버를 매칭하는 서비스 입니다.
+- 소개: 반려동물과 함께 이동을 원하는 고객과 드라이버를 매칭하는 서비스 입니다.
 - 기간: 2019.07 ~ 현재
 
 ### Projects.
 * 2019.07 ~ 2019.08
-    - 홈페이지 팝업 반응형으로 수정 및 '오늘하루 그만보기' 기능 개발 <br />
-    (HTML, CSS, javascipt, Jquery, 쿠키)
-    - 소스 코드 원격 저장소로 이전 (GitLap)
+    - 홈페이지 팝업 반응형 개발 및 쿠키 개발 <br />
+    (HTML, CSS, javascipt, Jquery)
+    - 소스 코드 원격 저장소로 이전 (GitLab)
     - 고객 마케팅 동의 유무 수집 (Android, iOS) 
 
 * 2019.09 ~ 2019.10
@@ -79,8 +79,8 @@
 <br /> 
  
 * 2019.11 ~ 2019.12
-    - 팝업 및 링크 이동 기능 개발 (Android, iOS, WebView)
-    - 관리자페이지에 모바일 팝업 업데이트 및 시간별 관리 기능 개발 <br /> 
+    - 모바일 팝업 개발 (Android, iOS, WebView)
+    - 시간별 모바일 팝업 관리 시스템 개발 <br /> 
       (HTML, CSS, Javascript, Jquery)
     - 드라이버의 예약 수락 중복 오류 수정 (Android, iOS)
     - 결제 실패 원인 반환 기능 개발 (Spring, Danal API)
