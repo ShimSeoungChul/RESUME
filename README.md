@@ -51,7 +51,6 @@
     - 홈페이지 배너 추가 (HTML, CSS, javascipt, Jquery)
     - NH 챌린지플러스 사업계획서 기술 부문 작성(2기 선정)
  
-<br /> 
  
 * 2019.11 ~ 2019.12
     - 고객앱 팝업 개발 (Android, iOS, WebView)
@@ -60,7 +59,6 @@
     - 드라이버앱 예약 중복 수락 오류 수정 (Android, iOS)
     - 결제 기능 예외 처리 추가 (Spring, Danal API)
 
-<br /> 
  
 * 2020.01 ~ 2020.02
     - iOS 13 SDK 대응 <br />
@@ -69,7 +67,6 @@
       결과: 푸시 알림 요청 한 번에 몇 분씩 걸리던 로직을 1초 미만으로 수정
     - <img alt="푸시알림수정결과" src="https://user-images.githubusercontent.com/40673012/107137718-81bfd680-6952-11eb-9f4d-bfb7ca6c3868.png" width="500">
 
-<br /> 
  
 * 2020.03 ~ 2020.06
     - 고객앱 동물 품종 검색 기능 추가 (Android SearchView, iOS UISearchBar) 
@@ -78,7 +75,6 @@
     - 창업도약패키지 사업계획서 기술 부문 작성(지원사업기업 선정)
     - 2020 SK 5GX Accelerator 사업계획서 기술 부문 작성(입주 기업 선정)
 
-<br /> 
  
 * 2020.07 ~ 2020.10
     - 고객앱 카카오배너 광고 전환 추적 구현 (Adnroid, iOS, KakaoAD SDK)
@@ -87,8 +83,6 @@
       보맵, 삼성화재 등 고객사의 개발&비개발 직군과 협업 경험
     - 관리자페이지 엑셀 다운로드 가능 데이터 수정 (Spring, Apache POI)
     - 고객앱 SNS 고객 탈퇴 기능 개발 (Android, iOS, 알리고 API)
-
-<br /> 
  
 * 2020.11 ~ 2021.01
     - 관리자페이지 실시간 예약 확인 기능 오류 수정 <br />
@@ -102,13 +96,13 @@
     - 서버에 단위 유닛 테스트 시작(Spring, Junit) 
     - 드라이버앱 고객 카드 유효성 검사 기능 추가(Android, iOS, Danal API)
 
-<br /><br />
+<br />
 
 # Education.
 ## <img src="https://user-images.githubusercontent.com/40673012/107167667-c86a0b00-69fc-11eb-9668-3274f53101f8.png" alt="ssu 로고" width="33" height="33"/> 숭실대학교 컴퓨터학부  
 - 4학년 2학기 재학 중(2021년 8월 졸업 예정)
 
-<br /><br />
+<br />
 
 # Awards.
 <br />
@@ -137,7 +131,7 @@
 
           
  
-<br /><br />
+<br />
 
 
 # Project
