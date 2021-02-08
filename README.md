@@ -50,7 +50,7 @@
 - Spring Boot, Hadoop, MapReduce, Django, express
 
 ### Server
-- Nginx, Apache, Kurento(미디어서버)
+- Tomcat, Nginx, Apache, Kurento(미디어서버)
 
 ### Database
 - MySQL, Percona, MongoDB
@@ -131,14 +131,15 @@
 <br /><br />
 
 # Education.
-- 숭실대학교 컴퓨터학부 4학년 2학기 재학 중(2021년 8월 졸업 예정)
+## 숭실대학교 컴퓨터학부 <img src="https://user-images.githubusercontent.com/40673012/107167667-c86a0b00-69fc-11eb-9668-3274f53101f8.png" alt="ssu 로고" width="22" height="22"/> 
+- 4학년 2학기 재학 중(2021년 8월 졸업 예정)
 
 <br /><br />
 
 # Awards.
 <br />
 
-### 2020 삼정KPMG 아이디어톤(해커톤) 팀장, 준우승
+### 2020 삼정KPMG  <img src="https://user-images.githubusercontent.com/40673012/107167672-c99b3800-69fc-11eb-9e98-4eea671a1a30.jpg" alt="kpmg 로고" width="22" height="22"/> 아이디어톤(해커톤) 팀장, 준우승
 - 소개: 모바일 단말을 통한 AI 데이터 전처리 플랫폼입니다.<br/>
        스프링부트, JPA, MySQL을 통해 백엔드를 구현했습니다.    
 - 소스코드&세부사항: https://github.com/ShimSeoungChul/kpmg-ing-backend <br/>
@@ -146,7 +147,7 @@
           https://www.slideshare.net/JihyunSon2/kpmg-ideation-challenge-korean
 <br />
 
-### 2020 한경 앱 아이디어 챌린지 동상
+### 2020 한경 <img src="https://user-images.githubusercontent.com/40673012/107167674-ca33ce80-69fc-11eb-869d-74b8c17a457b.jpg" alt="hk 로고" width="22" height="22"/> 앱 아이디어 챌린지 동상
 - 소개: 맞벌이 부부의 업무분담 효율성을 위한 집안일 분담 앱입니다. '팀 ING(전처리중)'으로 참여했습니다. <br/>
        안드로이드 프로토타입 앱을 구현했습니다.
 - 소스코드&세부사항: https://github.com/ShimSeoungChul/housekeeper
