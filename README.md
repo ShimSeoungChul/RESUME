@@ -60,8 +60,8 @@
 
 # Work experience.
 ## 펫미업 <img src="https://github.com/ShimSeoungChul/RESUME/raw/master/images/petmeup.png" alt="펫미업 로고" width="22" height="22"/>
-- 소개: 반려동물과 함께 이동을 원하는 고객과 드라이버를 매칭하는 서비스 입니다.
-- 기간: 2019.07 ~ 현재
+- <b>소개</b>: 반려동물과 함께 이동을 원하는 고객과 드라이버를 매칭하는 서비스 입니다.
+- <b></b>: 2019.07 ~ 현재
 
 ### Projects.
 * 2019.07 ~ 2019.08
@@ -92,7 +92,7 @@
     - iOS 13 SDK 대응 <br />
      (다크 모드, 모달 프레젠트 방식(페이지시트->fullScreen), 애플 로그인 구현)
     - 드라이버앱 푸시 알림 데이터베이스 쿼리 최적화 <br />
-      <b>결과<b/>: 푸시 알림 요청 한 번에 몇 분씩 걸리던 로직을 1초 미만으로 수정
+      결과: 푸시 알림 요청 한 번에 몇 분씩 걸리던 로직을 1초 미만으로 수정
     - <img alt="푸시알림수정결과" src="https://user-images.githubusercontent.com/40673012/107137718-81bfd680-6952-11eb-9f4d-bfb7ca6c3868.png" width="500">
 
 <br /> 
