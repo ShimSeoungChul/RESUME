@@ -12,12 +12,12 @@
 # Skill 1.
 업무에 사용한 기술 입니다.
 <br />
-* <b>Programming language<b/> - Java, Swift, Javascript
-* <b>AWS<b/> - Route53, EC2, Load Balancer, RDS: Aurora MySQL
-* <b>Protocol<b/> - HTTP, WebSocket
-* <b>Platform<b/> - Android, iOS, Linux(Ubuntu)
-* <b>FrameWork<b/> - Spring
-* <b>Server<b/> - Tomcat
+* <b> Programming language <b/> - Java, Swift, Javascript
+* <b> AWS <b/> - Route53, EC2, Load Balancer, RDS: Aurora MySQL
+* <b> Protocol <b/> - HTTP, WebSocket
+* <b> Platform <b/> - Android, iOS, Linux(Ubuntu)
+* <b> FrameWork <b/> - Spring
+* <b> Server <b/> - Tomcat
 
 # Skill 2.
 개인 프로젝트에 사용한 기술 입니다.
