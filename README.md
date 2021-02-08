@@ -178,7 +178,7 @@
     - WebSocket을 통한 채팅 구현
     - 하둡 맵리듀스를 통한 형태소 분석 구현
 - <b>영상시연</b>: https://youtu.be/lrSXNK8K0h0
-* <b>소스코드&세부설명</b>:
+* <b>소스코드&세부설명</b>: https://github.com/ShimSeoungChul/walkadog
 
 <br />
 
@@ -189,4 +189,4 @@
     - 안드로이드 앱
     - TCP/IP 소켓 통신을 통한 실시간 게임 및 채팅 구현
 - <b>영상시연</b>: https://youtu.be/hL26dB0uDB4
-- <b>소스코드&세부설명</b>: 
+- <b>소스코드&세부설명</b>: https://github.com/ShimSeoungChul/battle-yut
