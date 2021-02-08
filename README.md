@@ -153,7 +153,7 @@
 - 소스코드&세부사항: https://github.com/ShimSeoungChul/housekeeper
 - 관련정보: https://www.hankyung.com/economy/article/202006095664a
 
-### 2020 D-Tech 기술 디자인 공모전 Track 1 우수상
+### D-Tech 2020 기술 디자인 공모전 Track 1 우수상
 - 소개: 중증장애인을 원격고용하는 머신러닝 학습데이터 전처리 플랫폼 사업입니다. '팀 비마'로 참여했습니다. <br />
        기술 조사 담당했습니다.
 - 관련정보: https://han.gl/r5ZFG<br />
