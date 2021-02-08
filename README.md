@@ -141,7 +141,7 @@
 
 ###  <img src="https://user-images.githubusercontent.com/40673012/107167672-c99b3800-69fc-11eb-9e98-4eea671a1a30.jpg" alt="kpmg 로고" width="28" height="28"/> 삼정KPMG - 2020 아이디어톤(해커톤) 팀장, 준우승
 * <b>소개</b>: 모바일 단말을 통한 AI 데이터 전처리 플랫폼입니다. 
-    -'팀 ING(전처리중)'으로 참여
+    - '팀 ING(전처리중)'으로 참여
     - 백엔드 기여도 100% / 스프링부트, JPA, MySQL 사용  
 - <b>소스코드&세부설명</b>: https://github.com/ShimSeoungChul/kpmg-ing-backend <br/>
 - <b>관련정보</b>: https://han.gl/KcFD5 <br />
@@ -150,14 +150,14 @@
 
 ###  <img src="https://user-images.githubusercontent.com/40673012/107167674-ca33ce80-69fc-11eb-869d-74b8c17a457b.jpg" alt="hk 로고" width="28" height="28"/> 한경 - 2020 앱 아이디어 챌린지 동상
 - <b>소개</b>: 맞벌이 부부의 업무분담 효율성을 위한 집안일 분담 앱입니다.
-    -'팀 ING(전처리중)'으로 참여했
+    - '팀 ING(전처리중)'으로 참여했
     - 안드로이드 앱 기여도 100%
 - <b>소스코드&세부설명</b>: https://github.com/ShimSeoungChul/housekeeper
 - 관련정보: https://www.hankyung.com/economy/article/202006095664a
 
 ### D-Tech 2020 기술 디자인 공모전 Track 1 우수상
 * <b>소개</b>: 중증장애인을 원격고용하는 머신러닝 학습데이터 전처리 플랫폼 계획서를 작성했습니다.
-    -'팀 비마'로 참여
+    - '팀 비마'로 참여
 - <b>관련정보</b>: https://han.gl/r5ZFG<br />
           https://www.d-techcampaign.com/
 
