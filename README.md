@@ -22,30 +22,15 @@
 # Skill 2.
 개인 프로젝트에 사용한 기술 입니다.
 <br />
+* <b> Programming language </b> - Java, PHP, Javascript, Python
+* <b> AWS </b> - Route53, EC2, RDS
+* <b> Protocol </b> - HTTP, WebSocket, TCP/IP, WebRTC
+* <b> Platform </b> - Android, Linux(Ubuntu)
+* <b> FrameWork </b> - Spring Boot, Hadoop, MapReduce, Django, express
+* <b> Server </b> - Tomcat, Nginx, Apache, Kurento(미디어서버)
+* <b> Database </b> - MySQL, Percona, MongoDB
 
-### Programming language
-- Java, PHP, Javascript, Python
-
-### AWS
-- Route53, EC2, RDS
-
-### Protocol
-- HTTP, WebSocket, TCP/IP, WebRTC
-
-### Platform
-- Android, Linux(Ubuntu)
-
-### FrameWork
-- Spring Boot, Hadoop, MapReduce, Django, express
-
-### Server
-- Tomcat, Nginx, Apache, Kurento(미디어서버)
-
-### Database
-- MySQL, Percona, MongoDB
-
-
-<br /><br />
+<br />
 
 # Work experience.
 ## 펫미업 <img src="https://github.com/ShimSeoungChul/RESUME/raw/master/images/petmeup.png" alt="펫미업 로고" width="22" height="22"/>
