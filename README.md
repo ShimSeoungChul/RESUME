@@ -169,7 +169,7 @@
 # Project
 <br />
 
-## Walkadog <img src="https://user-images.githubusercontent.com/40673012/107179989-29a0d700-6a1b-11eb-82e3-2edd39e79902.png" alt="walkadog 로고" width="25" height="25"/>
+## Walkadog <img src="https://user-images.githubusercontent.com/40673012/107179989-29a0d700-6a1b-11eb-82e3-2edd39e79902.png" alt="walkadog 로고" width="30" height="30"/>
 `개인 프로젝트, 2019.4-2019.6`
 * <b>소개</b>: 반려견을 위한 산책 대리 어플입니다. <br />
     - 기여도 100%
@@ -182,7 +182,7 @@
 
 <br />
 
-## BattleYut <img src="https://user-images.githubusercontent.com/40673012/107179991-2a396d80-6a1b-11eb-9040-5143478af5e5.png" alt="walkadog 로고" width="25" height="25"/>
+## BattleYut <img src="https://user-images.githubusercontent.com/40673012/107179991-2a396d80-6a1b-11eb-9040-5143478af5e5.png" alt="walkadog 로고" width="30" height="30"/>
 `개인 프로젝트, 2018.3-2018.5`
 * <b>소개</b>: 실시간 윷놀이 대전게임입니다. 
     - 기여도 100%
