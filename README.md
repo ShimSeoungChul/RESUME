@@ -41,7 +41,7 @@
 - Route53, EC2, RDS
 
 ### Protocol
-- HTTP, WebSocket, TCP/IP
+- HTTP, WebSocket, TCP/IP, WebRTC
 
 ### Platform
 - Android, Linux(Ubuntu)
