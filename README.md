@@ -125,7 +125,7 @@
     - '팀 ING(전처리중)'으로 참여했
     - 안드로이드 앱 기여도 100%
 - <b>소스코드&세부설명</b>: https://github.com/ShimSeoungChul/housekeeper
-- 관련정보: https://www.hankyung.com/economy/article/202006095664a
+- <b>관련정보</b>: https://www.hankyung.com/economy/article/202006095664a
 
 ### D-Tech 2020 기술 디자인 공모전 Track 1 우수상
 * <b>소개</b>: 중증장애인을 원격고용하는 머신러닝 학습데이터 전처리 플랫폼 계획서를 작성했습니다.
@@ -133,10 +133,7 @@
 - <b>관련정보</b>: https://han.gl/r5ZFG<br />
           https://www.d-techcampaign.com/
 
-          
- 
 <br />
-
 
 # Project
 <br />
