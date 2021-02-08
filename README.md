@@ -140,23 +140,25 @@
 <br />
 
 ###  <img src="https://user-images.githubusercontent.com/40673012/107167672-c99b3800-69fc-11eb-9e98-4eea671a1a30.jpg" alt="kpmg 로고" width="28" height="28"/> 삼정KPMG - 2020 아이디어톤(해커톤) 팀장, 준우승
-- 소개: 모바일 단말을 통한 AI 데이터 전처리 플랫폼입니다. <br/>
-      '팀 ING(전처리중)'으로 참여했으며 스프링부트, JPA, MySQL을 통해 백엔드를 구현했습니다.    
-- 소스코드&세부사항: https://github.com/ShimSeoungChul/kpmg-ing-backend <br/>
-- 관련정보: https://han.gl/KcFD5 <br />
+* <b>소개</b>: 모바일 단말을 통한 AI 데이터 전처리 플랫폼입니다. 
+    -'팀 ING(전처리중)'으로 참여
+    - 백엔드 기여도 100% / 스프링부트, JPA, MySQL 사용  
+- <b>소스코드&세부설명</b>: https://github.com/ShimSeoungChul/kpmg-ing-backend <br/>
+- <b>관련정보</b>: https://han.gl/KcFD5 <br />
           https://www.slideshare.net/JihyunSon2/kpmg-ideation-challenge-korean
 <br />
 
 ###  <img src="https://user-images.githubusercontent.com/40673012/107167674-ca33ce80-69fc-11eb-869d-74b8c17a457b.jpg" alt="hk 로고" width="28" height="28"/> 한경 - 2020 앱 아이디어 챌린지 동상
-- 소개: 맞벌이 부부의 업무분담 효율성을 위한 집안일 분담 앱입니다. <br />
- '팀 ING(전처리중)'으로 참여했으며, 프로토타입 안드로이드 앱을 구현했습니다.
-- 소스코드&세부사항: https://github.com/ShimSeoungChul/housekeeper
+- <b>소개</b>: 맞벌이 부부의 업무분담 효율성을 위한 집안일 분담 앱입니다.
+    -'팀 ING(전처리중)'으로 참여했
+    - 안드로이드 앱 기여도 100%
+- <b>소스코드&세부설명</b>: https://github.com/ShimSeoungChul/housekeeper
 - 관련정보: https://www.hankyung.com/economy/article/202006095664a
 
 ### D-Tech 2020 기술 디자인 공모전 Track 1 우수상
-- 소개: 중증장애인을 원격고용하는 머신러닝 학습데이터 전처리 플랫폼 사업입니다. <br />
- '팀 비마'로 참여했고, 기술 조사 담당했습니다.
-- 관련정보: https://han.gl/r5ZFG<br />
+* <b>소개</b>: 중증장애인을 원격고용하는 머신러닝 학습데이터 전처리 플랫폼 계획서를 작성했습니다.
+    -'팀 비마'로 참여
+- <b>관련정보</b>: https://han.gl/r5ZFG<br />
           https://www.d-techcampaign.com/
 
           
@@ -169,14 +171,22 @@
 
 ## Walkadog
 `개인 프로젝트, 2019.4-2019.6`
-- 소개: 반려견을 위한 산책 대리 어플입니다. <br />
-  영상프로토콜, 웹서버, RDBS, NOSQL 기술을 사용했으며, 같은 조건에서 가장 빠른 제품을 찾는 벤치마크를 진행했습니다.
-- 벤치마크:
-- 소스코드:&세부사항:
+* <b>소개</b>: 반려견을 위한 산책 대리 어플입니다. <br />
+    - 기여도 100%
+    - 안드로이드 앱
+    - WebRTC를 통한 영상 스트리밍 구현
+    - WebSocket을 통한 채팅 구현
+    - 하둡 맵리듀스를 통한 형태소 분석 구현
+- <b>영상시연</b>: https://youtu.be/lrSXNK8K0h0
+* <b>소스코드&세부설명</b>:
 
 <br />
 
 ## BattleYut
 `개인 프로젝트, 2018.3-2018.5`
-- 소개: TCP/IP를 사용한 실시간 윷놀이 대전게임입니다. 
-- 소스코드:&세부사항: 
+* <b>소개</b>: 실시간 윷놀이 대전게임입니다. 
+    - 기여도 100%
+    - 안드로이드 앱
+    - TCP/IP 소켓 통신을 통한 실시간 게임 구현
+- <b>영상시연</b>: https://youtu.be/hL26dB0uDB4
+- <b>소스코드&세부설명</b>: 
