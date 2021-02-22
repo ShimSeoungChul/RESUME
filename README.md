@@ -74,7 +74,7 @@
  
 * 2020.03 ~ 2020.06
     - 고객앱 동물 품종 검색 기능 추가 (Android SearchView, iOS UISearchBar) 
-    - 메일 서비스 변경, 후이즈메일 -> 라인웍스메일 (Route53, Line works)
+    - 사내 메일 서비스 변경, 후이즈메일 -> 라인웍스메일 (Route53, Line works)
     - AWS EC2 파일 시스템 볼륨을 확장
     - 창업도약패키지 사업계획서 기술 부문 작성(지원사업기업 선정)
     - 2020 SK 5GX Accelerator 사업계획서 기술 부문 작성(입주 기업 선정, Tmap API 금액 지원)
