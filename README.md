@@ -129,7 +129,7 @@
 - <b>소스코드&세부설명</b>: https://github.com/ShimSeoungChul/housekeeper
 - <b>관련정보</b>: https://www.hankyung.com/economy/article/202006095664a
 
-### D-Tech 2020 기술 디자인 공모전 Track 1 우수상
+### <img src="https://user-images.githubusercontent.com/40673012/109604553-0fb06b00-7b67-11eb-84ec-98d57000c3de.png" alt="dtech 로고" width="28" height="28"/>D-Tech 2020 기술 디자인 공모전 Track 1 우수상
 * <b>소개</b>: 중증장애인을 원격고용하는 머신러닝 학습데이터 전처리 플랫폼 계획서를 작성했습니다.
     - '팀 비마'로 참여
 - <b>관련정보</b>: https://han.gl/r5ZFG<br />
