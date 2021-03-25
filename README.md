@@ -100,7 +100,7 @@
 <br />
 
 # Education.
-## <img src="https://user-images.githubusercontent.com/40673012/107167667-c86a0b00-69fc-11eb-9668-3274f53101f8.png" alt="ssu 로고" width="33" height="33"/> 숭실대학교 컴퓨터학부  
+### <img src="https://user-images.githubusercontent.com/40673012/107167667-c86a0b00-69fc-11eb-9668-3274f53101f8.png" alt="ssu 로고" width="33" height="33"/> 숭실대학교 컴퓨터학부  
 - 4학년 2학기 재학 중(2021년 8월 졸업 예정)
 
 <br />
