@@ -77,7 +77,7 @@
     - 사내 메일 서비스 변경, 후이즈메일 -> 라인웍스메일 (Route53, Line works) <br />
     - AWS EC2 파일 시스템 볼륨을 확장
     - 창업도약패키지 사업계획서 기술 부문 작성(지원사업기업 선정)
-    - 2020 SK 5GX Accelerator 사업계획서 기술 부문 작성(입주 기업 선정, Tmap API 금액 지원)
+    - 2020 SK 5GX Accelerator 사업계획서 기술 부문 작성(입주 기업 선정)
 
  
 * 2020.07 ~ 2020.10
@@ -119,7 +119,7 @@
 
 ###  <img src="https://user-images.githubusercontent.com/40673012/107167674-ca33ce80-69fc-11eb-869d-74b8c17a457b.jpg" alt="hk 로고" width="28" height="28"/> 한경 - 2020 앱 아이디어 챌린지 동상
 - <b>소개</b>: 맞벌이 부부의 업무분담 효율성을 위한 집안일 분담 앱입니다.
-    - '팀 ING(전처리중)'으로 참여했
+    - '팀 ING(전처리중)'으로 참여
     - 안드로이드 앱 기여도 100%
 - <b>소스코드&세부설명</b>: https://github.com/ShimSeoungChul/housekeeper
 - <b>관련정보</b>: https://www.hankyung.com/economy/article/202006095664a
