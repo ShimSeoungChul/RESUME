@@ -91,12 +91,9 @@
 * 2020.11 ~ 2021.01
     - 관리자페이지 실시간 예약 확인 기능 오류 수정 <br />
     (Websocket, Javascript, AWS EC2 Load Balancer) <br />
-    https://scshim.tistory.com/170
     - 크롬브라우저 주소 검색 오류 수정 (html, Kakao API)<br />
-    https://scshim.tistory.com/167 <br />
     - 고객앱 Tmap 지도 로딩 오류 수정, Tmap SDK 신규 버전으로 교체 <br />
     (iOS, Tmap SDK) <br />
-    https://scshim.tistory.com/184
     - 서버에 단위 유닛 테스트 시작(Spring, Junit) 
     - 드라이버앱 고객 카드 유효성 검사 기능 추가(Android, iOS, Danal API)
 
