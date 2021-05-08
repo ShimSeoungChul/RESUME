@@ -39,7 +39,7 @@
 <br />
 
 ### 펫미업 <img src="https://github.com/ShimSeoungChul/RESUME/raw/master/images/petmeup.png" alt="펫미업 로고" width="22" height="22"/>
-- <b>소개</b>: 반려동물과 함께 이동을 원하는 고객과 드라이버를 매칭하는 서비스 입니다.
+- <b>소개</b>: 반려동물과 함께 이동을 원하는 고객과 드라이버를 매칭하는 서비스 입니다. 재직 기간 펫미업의 모든 개발 업무를 혼자 담당했습니다.(Android, iOS, Backend:Spring, Web) 
 - <b>기간</b>: 2019.07 ~ 현재
 
 #### Projects.
