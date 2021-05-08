@@ -6,8 +6,9 @@
 ✍ Blog: https://scshim.tistory.com/<br />
 👨‍💻 Github: https://github.com/ShimSeoungChul
 
-배우고 행동하는 걸 좋아합니다.  
-
+- 배우고 행동하는 걸 좋아합니다.  
+- 목표를 세우고 몰입하는 걸 좋아합니다.
+ 
 <br />
 
 # Skill 1.
