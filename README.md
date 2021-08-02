@@ -138,7 +138,7 @@
 <br />
 
 ## Walkadog <img src="https://user-images.githubusercontent.com/40673012/107179989-29a0d700-6a1b-11eb-82e3-2edd39e79902.png" alt="walkadog 로고" width="30" height="30"/>
-`개인 프로젝트, 2019.4-2019.6`
+`개인 프로젝트, 2018.6-2019.6`
 * <b>소개</b>: 반려견을 위한 산책 대리 어플 <br />
     - 기여도 100%
     - 안드로이드 앱
